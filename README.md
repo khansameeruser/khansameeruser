@@ -9,14 +9,6 @@ I'm a passionate cloud computing student with hands-on experience in building sc
 
 ---
 
-## 🏆 Certifications
-- **AWS Cloud Quest: Cloud Practitioner**
-- **Huawei HCIA Storage**
-- **Nutanix Certified Associate (NCA 6.5)**
-- **Nutanix Certified Professional - Multicloud Infrastructure (NCP - MCI 6)**
-
----
-
 ## 🌟 Featured Projects
 
 ### 1. Terraform Powered Multi-Cloud Architecture
@@ -26,6 +18,14 @@ I'm a passionate cloud computing student with hands-on experience in building sc
 ### 2. Serverless Web Application
 - Developed a serverless web app using AWS S3, API Gateway, Lambda, and DynamoDB.
 - [GitHub Repository](https://github.com/khansameeruser/aws-serverless-web-app)
+
+---
+
+## 🏆 Certifications
+- **AWS Cloud Quest: Cloud Practitioner**
+- **Huawei HCIA Storage**
+- **Nutanix Certified Associate (NCA 6.5)**
+- **Nutanix Certified Professional - Multicloud Infrastructure (NCP - MCI 6)**
 
 ---
 
